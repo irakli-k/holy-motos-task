@@ -20,7 +20,6 @@
                     :key="client"
                     :style="{ 'background-image': `url(${client})` }"
                 >
-                    <!-- <img :src="client" /> -->
                 </swiper-slide>
             </swiper-container>
             <swiper-container
@@ -41,7 +40,6 @@
                     :key="client"
                     :style="{ 'background-image': `url(${client})` }"
                 >
-                    <!-- <img :src="client" /> -->
                 </swiper-slide>
             </swiper-container>
 

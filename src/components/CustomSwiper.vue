@@ -375,7 +375,6 @@ swiper-container {
                     }
                 }
                 .slide-desc-container {
-                    // display: none;
                     width: 100%;
                     height: 100%;
                     top: 0;
